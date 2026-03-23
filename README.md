@@ -1,1 +1,1 @@
-# Secure-Network-Architecture-with-Protected-DMZ
+Secure Network Architecture with Protected DMZ
